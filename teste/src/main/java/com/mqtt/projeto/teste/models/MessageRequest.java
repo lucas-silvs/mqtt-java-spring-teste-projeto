@@ -10,4 +10,7 @@ public class MessageRequest{
 
     @JsonProperty("message")
     private String Message;
+
+    @JsonProperty("topico")
+    private String topico;
 }
