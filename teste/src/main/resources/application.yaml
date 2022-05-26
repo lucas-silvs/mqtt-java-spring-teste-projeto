@@ -1,0 +1,11 @@
+server:
+  port: 8090
+
+spring:
+  profiles:
+    active: local
+mqtt:
+  topic:
+    uri: tcp://127.0.0.1:8083
+    id: Spring-api-teste
+
