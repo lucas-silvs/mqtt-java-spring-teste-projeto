@@ -1,0 +1,10 @@
+config:
+  topic:
+    uri: tcp://127.0.0.1:8083
+    id: Spring-api-teste
+  qos: 0
+  credential:
+    username:
+    password:
+
+

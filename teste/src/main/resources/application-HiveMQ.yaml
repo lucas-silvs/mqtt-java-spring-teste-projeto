@@ -1,0 +1,10 @@
+config:
+  topic:
+    uri: broker.hivemq.com
+    id: Spring-api-teste
+  qos: 0
+  credential:
+    username:
+    password:
+
+
